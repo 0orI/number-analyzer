@@ -28,23 +28,26 @@ How to Run
 Example
 
 Input:
-
-Enter number count: 3
-Enter first number: 6
-Enter number: -2
-Enter number: 4
+``` text
+Введите количество чисел/Enter number count: 3
+Введите первое число/Enter first number: 6
+Введите число/Enter number: -2
+Введите число/Enter number: 4
+```
 
 Results:
 
-Maximum: 6
-Minimum: -2
-Sum: 8
-Average: 2.6666666666666665
-Positive numbers: 2
-Negative numbers: 1
-Zeros: 0
+``` text
+Максимальное число/Maximum: 6
+Минимальное число/Minimum: -2
+Сумма всех чисел/Sum: 8
+Среднее значение/Average: 2.6666666666666665
+Количество положительных чисел/Positive numbers: 2
+Количество отрицательных чисел/Negative numbers: 1
+Количество нулей/Zeros: 0
+```
 
-Note: The current program displays prompts and results in Russian.
+*Note: The current program displays prompts and results in Russian.
 
 About
 
